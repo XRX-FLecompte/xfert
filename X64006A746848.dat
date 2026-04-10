@@ -1,0 +1,20 @@
+####################################
+# Xerox License String File ? 2025 #
+####################################
+
+# Created for PEPINIERE ABBOTSFORD on 06-04-2025 by Ritchie, Andrew
+# Contact: *, * at (*) *
+
+#[HostID: 64006A746848; Product: FreeFlow Core; Serial Number: B3W001787; id: 6a35470e-eb4a-4d70-8ddc-34628fe95795]
+# CorePrepressOption feature on product FreeFlow Core, exp. 28-Jun-2026
+FEATURE CorePrepressOption xlm6 8.0 28-Jun-2026 0 422790F671F9404982F75F5142EE HOSTID=64006A746848 6AE8AD09FD0EF98F29AF2E89DFA9 SERIAL_NUM=B3W001787
+
+# CoreAutomationOption feature on product FreeFlow Core, exp. 28-Jun-2026
+FEATURE CoreAutomationOption xlm6 8.0 28-Jun-2026 0 2F9EAD733EA4D1C86F477E05B378 HOSTID=64006A746848 6AE8AD09FD0EF98F29AF2E89DFA9 SERIAL_NUM=B3W001787
+
+# CoreBase feature on product FreeFlow Core, exp. 28-Jun-2026
+FEATURE CoreBase xlm6 8.0 28-Jun-2026 0 26AC0495FBED23A18248DE8EFFC8 HOSTID=64006A746848 6AE8AD09FD0EF98F29AF2E89DFA9 SERIAL_NUM=B3W001787
+
+# CoreOutputMgrOption feature on product FreeFlow Core, exp. 28-Jun-2026
+FEATURE CoreOutputMgrOption xlm6 8.0 28-Jun-2026 0 A7AE45C3885F9F1F53CDD552795F HOSTID=64006A746848 6AE8AD09FD0EF98F29AF2E89DFA9 SERIAL_NUM=B3W001787
+
