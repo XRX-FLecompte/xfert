@@ -1,0 +1,2 @@
+Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+.\Collect-FFCore_Aborted_Service_5885.ps1
